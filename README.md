@@ -1,4 +1,12 @@
 ## Hi there 👋
+Sou Alison, um estudante de desenvolvimento de software, buscando uma oportunidade de estágio ou posição como Desenvolvedor Júnior para iniciar minha carreira profissional. Atualmente, estudo desenvolvimento de software de forma independente e estou ansioso para aplicar meu conhecimento e habilidades em um ambiente de trabalho dinâmico.
+
+Tenho experiência em desenvolvimento full stack, com foco em tecnologias como React e Node.js. Além disso, possuo habilidades sólidas em JavaScript, HTML e CSS, bem como conhecimentos básicos em Java. Embora não tenha experiência profissional na área, estou determinado(a) a aprender e crescer rapidamente.
+<br>
+<br>
+<strong>Tecnologias</strong><br>
+<br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react)](https://skillicons.dev)
 
 <!--
 **alisonmateus/alisonmateus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
